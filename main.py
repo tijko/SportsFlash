@@ -46,4 +46,3 @@ def main(opt):
 if __name__ == '__main__':
     opt = options()
     main(opt)
-
