@@ -8,7 +8,7 @@ general.
 Right now the headlines can be read only, some kind of selection of a headline to
 open a page in your browser might be added in too.
 
-All the headline titles return to your terminal. and you need an apikey from [API](developers.espn.com/docs).
+All the headline titles return to your terminal. and you need an apikey from [here](http://developers.espn.com/docs).
 
 This could be easily wrapped to interface with an extension to display in a browser as a
 news scroll or be used as a feed to use with forms or display on a larger page.
