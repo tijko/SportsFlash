@@ -13,7 +13,6 @@ All the headline titles return to your terminal. and you need an apikey from [AP
 This could be easily wrapped to interface with an extension to display in a browser as a
 news scroll or be used as a feed to use with forms or display on a larger page.
 
-
 ##usage
 
     python SportsFlash/main.py -h
